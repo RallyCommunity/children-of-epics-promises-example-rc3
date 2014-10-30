@@ -2,8 +2,9 @@ Epics and Children
 =========================
 
 ## Overview
+![](pic.png)
 
-
+This app is vailable AS IS. It is NOT supported by Rally.
 ## License
 
 AppTemplate is released under the MIT license.  See the file [LICENSE](./LICENSE) for the full text.
