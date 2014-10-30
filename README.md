@@ -2,7 +2,7 @@ Epics and Children
 =========================
 
 ## Overview
-![](pic.png)
+![](pic0.png)
 
 This app is vailable AS IS. It is NOT supported by Rally.
 ## License
